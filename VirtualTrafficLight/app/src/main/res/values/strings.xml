@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VirtualTrafficLight</string>
+    <string name="login">Log in</string>
+    <string name="name_hint">Enter name</string>
+    <string name="password_hint">Enter password</string>
+    <string name="app_version">1.1.0 beta</string>
+    <string name="register">No accounts? Register now</string>
+    <string name="email_hint">Enter email</string>
+    <string name="registerbutton">Register</string>
+    <string name="TextViewlogin">Already have an account? Log in</string>
+    <string name="map_key" translatable="false">AIzaSyCVNWlAi5yMPxeHa2iSGvZu1mzon-Wb5Js</string>
+    <string name="TextViewRole">Role:</string>
+    <string name="textViewConjunction">Intersection:</string>
+    <string name="textViewX">X:</string>
+    <string name="textViewY">Y:</string>
+</resources>
